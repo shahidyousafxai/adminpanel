@@ -1,0 +1,13 @@
+.navbar.active {
+    background-color: #533483;
+    color: #94a3b8;
+    border-left: 2px solid #E94560;
+}
+
+.navbar.active>span {
+    color: #E94560;
+}
+
+.navbar.active>img{
+    filter: invert(36%) sepia(65%) saturate(1095%) hue-rotate(311deg) brightness(96%) contrast(97%);
+}
